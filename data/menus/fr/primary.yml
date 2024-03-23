@@ -5,8 +5,8 @@ items:
   target: "/lartiste/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
+- title: Publications
+  target: "/publications/"
   kind: page
   children: []
 - title: Agenda
