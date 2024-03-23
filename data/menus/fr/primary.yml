@@ -9,8 +9,8 @@ items:
   target: "/publications/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Expositions
+  target: "/expositions/"
   kind: page
   children: []
 - title: Œuvres
