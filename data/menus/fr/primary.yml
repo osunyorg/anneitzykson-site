@@ -13,8 +13,8 @@ items:
   target: "/publications/"
   kind: page
   children: []
-- title: L'Artiste
-  target: "/lartiste/"
+- title: À propos
+  target: "/a-propos/"
   kind: page
   children: []
 
