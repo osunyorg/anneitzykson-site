@@ -21,4 +21,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: L'Artiste
+  target: "/lartiste/"
+  kind: page
+  children: []
 
