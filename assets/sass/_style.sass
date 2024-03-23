@@ -1,3 +1,11 @@
 .page__home
     .logo
         opacity: 0
+@include media-breakpoint-up(desktop)
+    .projects__section,
+    .projects_categories__term
+        .projects
+            grid-template-columns: repeat(3, 1fr)
+    .block-projects 
+        .grid
+            grid-template-columns: repeat(3, 1fr)
