@@ -13,8 +13,8 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: Projets
-  target: "/projets/"
+- title: Œuvres
+  target: "/oeuvres/"
   kind: page
   children: []
 - title: Équipe
