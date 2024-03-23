@@ -2,12 +2,16 @@
 
 fr:
   title: >-
-    Site
+    Anne Itzykson
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   params:
     social:
+      email: >-
+        anne.itzykson@gmail.com
+      instagram: >-
+        https://www.instagram.com/anne_itzykson/
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
