@@ -1,0 +1,5 @@
+projects:
+  next: Œuvre suivante
+  next_aria: Œuvre suivante “{{ .Title }}”
+  previous: Œuvre précédente
+  previous_aria: Œuvre précédente “{{ .Title }}”
