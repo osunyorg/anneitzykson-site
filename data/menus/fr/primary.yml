@@ -5,12 +5,12 @@ items:
   target: "/oeuvres/"
   kind: page
   children: []
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  children: []
 - title: À propos
   target: "/a-propos/"
+  kind: page
+  children: []
+- title: Expositions
+  target: "/expositions/"
   kind: page
   children: []
 - title: Archives
