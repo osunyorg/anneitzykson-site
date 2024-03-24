@@ -5,8 +5,8 @@ items:
   target: "/oeuvres/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Expositions
+  target: "/expositions/"
   kind: page
   children: []
 - title: Publications
@@ -15,6 +15,10 @@ items:
   children: []
 - title: À propos
   target: "/a-propos/"
+  kind: page
+  children: []
+- title: Archives
+  target: "/archives-1/"
   kind: page
   children: []
 
