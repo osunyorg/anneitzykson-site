@@ -1,6 +1,10 @@
 ---
 title: Liens sociaux
 items:
+- title: 220g d'Art
+  target: https://anneitzykson.com
+  kind: url
+  children: []
 - title: Maison des artistes
   target: https://www.lamaisondesartistes.fr
   kind: url
