@@ -13,7 +13,6 @@ fr:
       instagram: >-
         https://www.instagram.com/anne_itzykson/
   permalinks:
-    posts: /actualites/:year-:month-:day-:slug/
     events: /expositions/:year-:month-:day-:slug/
     events_categories: /expositions/:slug/
     projects: /oeuvres/:year-:slug/
