@@ -1,4 +1,12 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Maison des artistes
+  target: https://www.lamaisondesartistes.fr
+  kind: url
+  children: []
+- title: Canoline Critiks
+  target: https://canolinecritiks.blogspot.com
+  kind: url
+  children: []
 
