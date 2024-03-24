@@ -9,10 +9,6 @@ items:
   target: "/expositions/"
   kind: page
   children: []
-- title: Publications
-  target: "/publications/"
-  kind: page
-  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
