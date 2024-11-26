@@ -5,16 +5,20 @@ items:
   target: "/oeuvres/"
   kind: page
   children: []
+  file: content/fr/projects/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 - title: Expositions
   target: "/expositions/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: Archives
   target: "/archives-1/"
   kind: page
   children: []
+  file: content/fr/pages/archives-1/_index.html
 
