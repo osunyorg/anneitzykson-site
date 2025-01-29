@@ -56,17 +56,21 @@ date: 2008
 projects_categories:
   - "enfants"
   - "groupes"
-free_categories:
-  - permalink: "/oeuvres/enfants/"
-    path: "/projects_categories/enfants"
-    slug: "enfants"
-    file: "content/fr/projects_categories/enfants/_index.html"
-    name: "Enfants"
-  - permalink: "/oeuvres/groupes/"
-    path: "/projects_categories/groupes"
-    slug: "groupes"
-    file: "content/fr/projects_categories/groupes/_index.html"
-    name: "Groupes"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/oeuvres/enfants/"
+        path: "/projects_categories/enfants"
+        slug: "enfants"
+        file: "content/fr/projects_categories/enfants/_index.html"
+        name: "Enfants"
+      - permalink: "/oeuvres/groupes/"
+        path: "/projects_categories/groupes"
+        slug: "groupes"
+        file: "content/fr/projects_categories/groupes/_index.html"
+        name: "Groupes"
+
 
 contents_reading_time:
   seconds: 2
