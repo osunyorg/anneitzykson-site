@@ -6,6 +6,7 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  buildFuture: true
   params:
     contact_details:
       emails:
@@ -22,7 +23,8 @@ fr:
             https://instagram.com/anne_itzykson
 
   permalinks:
-    events: /expositions/:year-:month-:day-:slug/
+    events: /expositions/:year/:slug/
+    exhibitions: /:year-:month-:day-:slug/
     events_categories: /expositions/:slug/
     pages_categories: /:slug/
     projects: /oeuvres/:year-:slug/
