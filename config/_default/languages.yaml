@@ -24,7 +24,7 @@ fr:
 
   permalinks:
     events: /expositions/:year/:slug/
-    exhibitions: /:year-:month-:day-:slug/
+    exhibitions: /expositions-1/:year-:month-:day-:slug/
     events_categories: /expositions/:slug/
     pages_categories: /:slug/
     projects: /oeuvres/:year-:slug/
