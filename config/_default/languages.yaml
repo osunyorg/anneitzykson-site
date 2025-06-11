@@ -22,13 +22,6 @@ fr:
           value: >-
             https://instagram.com/anne_itzykson
 
-  permalinks:
-    events: /expositions/:year/:slug/
-    exhibitions: /expositions-1/:year-:month-:day-:slug/
-    events_categories: /expositions/:slug/
-    pages_categories: /:slug/
-    projects: /oeuvres/:year-:slug/
-    projects_categories: /oeuvres/:slug/
   taxonomies:
     administrator: administrators
     author: authors
