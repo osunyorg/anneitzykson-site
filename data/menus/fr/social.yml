@@ -2,18 +2,24 @@
 title: Liens sociaux
 items:
 - title: 220g d'Art
+  slug: 220g-d-art
   target: https://anneitzykson.com
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Maison des artistes
+  slug: maison-des-artistes
   target: https://www.lamaisondesartistes.fr
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Canoline Critiks
+  slug: canoline-critiks
   target: https://canolinecritiks.blogspot.com
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
