@@ -14,3 +14,199 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/agenda/2024-03-17-salon-du-val-de-cher/index.html"
+to = "/expositions/2023/salon-du-val-de-cher/"
+
+[[redirects]]
+from = "/oeuvres/2021-coquine/index.html"
+to = "/oeuvres/2005-coquine/"
+
+[[redirects]]
+from = "/oeuvres/2023-rythmes/index.html"
+to = "/oeuvres/1997-rythmes/"
+
+[[redirects]]
+from = "/oeuvres/2023-la-natte/index.html"
+to = "/oeuvres/2008-la-natte/"
+
+[[redirects]]
+from = "/oeuvres/2021-vrille/index.html"
+to = "/oeuvres/2012-vrille/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/oeuvres/"
+
+[[redirects]]
+from = "/oeuvres/2023-la-boucle-d-oreille/index.html"
+to = "/oeuvres/1998-la-boucle-d-oreille/"
+
+[[redirects]]
+from = "/oeuvres/2023-le-bonbon/index.html"
+to = "/oeuvres/2011-le-bonbon/"
+
+[[redirects]]
+from = "/oeuvres/2022-coquette/index.html"
+to = "/oeuvres/2014-coquette/"
+
+[[redirects]]
+from = "/oeuvres/2023-youpi/index.html"
+to = "/oeuvres/2009-youpi/"
+
+[[redirects]]
+from = "/oeuvres/2022-la-recre/index.html"
+to = "/oeuvres/2008-la-recre/"
+
+[[redirects]]
+from = "/oeuvres/2023-youpi-envolee/index.html"
+to = "/oeuvres/2009-youpi-envolee/"
+
+[[redirects]]
+from = "/oeuvres/2019-gestation/index.html"
+to = "/oeuvres/2010-gestation/"
+
+[[redirects]]
+from = "/oeuvres/2023-grain-de-sable/index.html"
+to = "/oeuvres/2001-grain-de-sable/"
+
+[[redirects]]
+from = "/oeuvres/2023-fou-rire/index.html"
+to = "/oeuvres/2005-fou-rire/"
+
+[[redirects]]
+from = "/oeuvres/2023-clair-de-lune/index.html"
+to = "/oeuvres/2001-clair-de-lune/"
+
+[[redirects]]
+from = "/oeuvres/2020-pudique/index.html"
+to = "/oeuvres/2011-pudique/"
+
+[[redirects]]
+from = "/expositions/2023-03-26-salon-du-val-de-cher/index.html"
+to = "/expositions/2023/salon-du-val-de-cher/"
+
+[[redirects]]
+from = "/lartiste/index.html"
+to = "/a-propos/"
+
+[[redirects]]
+from = "/oeuvres/2021-sarah/index.html"
+to = "/oeuvres/2013-sarah/"
+
+[[redirects]]
+from = "/agenda/archives/index.html"
+to = "/expositions/archives/"
+
+[[redirects]]
+from = "/equipe-editoriale/index.html"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/oeuvres/2019-tango/index.html"
+to = "/oeuvres/2007-tango/"
+
+[[redirects]]
+from = "/oeuvres/2019-feline/index.html"
+to = "/oeuvres/2009-feline/"
+
+[[redirects]]
+from = "/agenda/2023-03-26-salon-du-val-de-cher/index.html"
+to = "/expositions/2023/salon-du-val-de-cher/"
+
+[[redirects]]
+from = "/oeuvres/2023-dammarie/index.html"
+to = "/oeuvres/1999-dammarie/"
+
+[[redirects]]
+from = "/oeuvres/2023-petit-malin/index.html"
+to = "/oeuvres/2005-petit-malin/"
+
+[[redirects]]
+from = "/oeuvres/2023-plenitude/index.html"
+to = "/oeuvres/2010-plenitude/"
+
+[[redirects]]
+from = "/oeuvres/2023-a-venir/index.html"
+to = "/oeuvres/2006-a-venir/"
+
+[[redirects]]
+from = "/oeuvres/2023-reves/index.html"
+to = "/oeuvres/2004-reves/"
+
+[[redirects]]
+from = "/oeuvres/2023-la-source/index.html"
+to = "/oeuvres/2008-la-source/"
+
+[[redirects]]
+from = "/oeuvres/2023-le-mur/index.html"
+to = "/oeuvres/1989-le-mur/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/expositions/"
+
+[[redirects]]
+from = "/projets/2022-lea/index.html"
+to = "/oeuvres/2022-lea/"
+
+[[redirects]]
+from = "/oeuvres/2023-prima-calza/index.html"
+to = "/oeuvres/1999-prima-calza/"
+
+[[redirects]]
+from = "/oeuvres/2023-buste-mathieu/index.html"
+to = "/oeuvres/2007-buste-mathieu/"
+
+[[redirects]]
+from = "/oeuvres/2023-maree-basse/index.html"
+to = "/oeuvres/2002-maree-basse/"
+
+[[redirects]]
+from = "/oeuvres/2023-nonna/index.html"
+to = "/oeuvres/1990-nonna/"
+
+[[redirects]]
+from = "/oeuvres/2023-le-lien/index.html"
+to = "/oeuvres/2004-le-lien/"
+
+[[redirects]]
+from = "/oeuvres/2023-onde/index.html"
+to = "/oeuvres/2000-onde/"
+
+[[redirects]]
+from = "/oeuvres/2019-la-vague/index.html"
+to = "/oeuvres/2000-la-vague/"
+
+[[redirects]]
+from = "/oeuvres/2023-aurore/index.html"
+to = "/oeuvres/2002-aurore/"
+
+[[redirects]]
+from = "/publications/index.html"
+to = "/actualites/"
+
+[[redirects]]
+from = "/oeuvres/2022-fanny/index.html"
+to = "/oeuvres/2015-fanny/"
+
+[[redirects]]
+from = "/oeuvres/2023-cabaret/index.html"
+to = "/oeuvres/2005-cabaret/"
+
+[[redirects]]
+from = "/oeuvres/2023-jeux/index.html"
+to = "/oeuvres/1998-jeux/"
+
+[[redirects]]
+from = "/oeuvres/2023-elles/index.html"
+to = "/oeuvres/2000-elles/"
+
+[[redirects]]
+from = "/oeuvres/2020-mutande/index.html"
+to = "/oeuvres/2004-mutanda/"
+
+[[redirects]]
+from = "/oeuvres/2023-jeu-d-eau/index.html"
+to = "/oeuvres/2005-jeu-d-eau/"
+
